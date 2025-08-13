@@ -34,4 +34,4 @@ This is a simple Cinema Management System developed as a varsity project in Java
 
 ## Author
 
-Made by Jabu in 2nd year, 1st semester.
+Made by Md. Abu Zihad in 2nd year, 1st semester.
