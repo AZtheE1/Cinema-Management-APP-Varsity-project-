@@ -47,5 +47,7 @@ public class ReportService {
             "GRAND TOTAL REVENUE", (grandTicketTotal + snackTotalRevenue), Constants.CURRENCY_LABEL
         );
         ConsoleUtils.printDivider();
+        System.out.println(" Developed by: " + Constants.PROJECT_SIGNATURE);
+        ConsoleUtils.printDivider();
     }
 }

@@ -7,6 +7,9 @@ import java.util.List;
 
 /**
  * Entry point for the Cinema Management System.
+ * 
+ * @author Md. Abu Zihad (AZtheE1)
+ * @email azihad783@gmail.com
  */
 public class Main {
     /**

@@ -5,6 +5,9 @@ import java.util.Arrays;
 
 /**
  * Static utility for all input validation and parsing.
+ *
+ * @author Md. Abu Zihad (AZtheE1)
+ * @email azihad783@gmail.com
  */
 public final class InputValidator {
     private InputValidator() {}

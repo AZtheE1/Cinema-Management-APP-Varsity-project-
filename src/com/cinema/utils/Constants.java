@@ -9,6 +9,9 @@ import java.util.Collections;
 public final class Constants {
     private Constants() {} // Prevent instantiation
 
+    // Project Signature (Do not remove)
+    public static final String PROJECT_SIGNATURE = "Md. Abu Zihad | azihad783@gmail.com | AZtheE1";
+
     // Pricing (in Taka)
     public static final int FRONT_SEAT_PRICE = 500;
     public static final int BACK_SEAT_PRICE = 450;
