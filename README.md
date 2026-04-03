@@ -46,6 +46,6 @@ A professionally refactored Cinema Management System developed as a varsity proj
 - **Primary Developer:** [Md. Abu Zihad](https://github.com/AZtheE1)
 - **Email:** azihad783@gmail.com
 - **GitHub:** [AZtheE1](https://github.com/AZtheE1)
-- **Refactored by:** Antigravity AI
+
 
 *Note: This application is a protected varsity project. Unauthorized distribution or claiming authorship is strictly prohibited.*
